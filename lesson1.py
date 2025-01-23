@@ -25,10 +25,7 @@ print(result)
 
 
 
-#print(result) # Вывод: 24
 
-#result2 = get_multiplied_digits(402030)
-#print(result2) # Вывод: 24
 
 
 
